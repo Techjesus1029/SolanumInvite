@@ -1,5 +1,6 @@
-# invite_request.tcl
+# solanuminvite.tcl
 # Eggdrop script to generate Solanum auth blocks based on account age.
+# solanuminvite 1.0 by techjesus1029
 
 namespace eval ::InviteSystem {
     # ------------------ CONFIGURATION ------------------
